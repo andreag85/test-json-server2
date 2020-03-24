@@ -3,15 +3,13 @@
     "status": true,
     "message": "",
     "data": {
-      "app_update": [
-        {
+      "app_update": {
           "update_title": "Aggiornamento disponibile",
           "update_text": "E' stato rilasciato un nuovo aggiornamento....",
           "mandatory": false,
           "last_version": 29,
           "store_link": "https://play.google.com/store/apps/...."
         }
-      ]
     }
   }
 }
