@@ -3,7 +3,7 @@
     "status": true,
     "message": "",
     "data": {
-      "aggiornamento": [
+      "app_update": [
         {
           "update_title": "Aggiornamento disponibile",
           "update_text": "E' stato rilasciato un nuovo aggiornamento....",
