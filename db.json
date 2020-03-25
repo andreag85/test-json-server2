@@ -4,12 +4,33 @@
     "message": "",
     "data": {
       "app_update": {
-          "update_title": "Aggiornamento disponibile",
-          "update_text": "E' stato rilasciato un nuovo aggiornamento....",
-          "mandatory": false,
-          "last_version": 29,
-          "store_link": "https://play.google.com/store/apps/...."
-        }
+        "update_title": "Aggiornamento disponibile",
+        "update_text": "E' stato rilasciato un nuovo aggiornamento....",
+        "mandatory": false,
+        "last_version": 29,
+        "store_link": "https://play.google.com/store/apps/...."
+      }
+    }
+  },
+  "ads": {
+    "status": true,
+    "message": "",
+    "data": {
+      "ads": {
+        "UNITID_BOTTOM_WEB": [
+          "/114167959/APP_320x50_CIO",
+          "ca-app-pub-8521638380159517/2324842837",
+          "ca-app-pub-8521638380159517/2324842837",
+          "ca-app-pub-8521638380159517/2324842837"
+        ],
+        "UNITID_BOTTOM_LIST": [
+          "/114167959/APP_320x50_CIO"
+        ],
+        "UNITID_LIST": [
+          "/114167959/APP_320x50_CIO",
+          "ca-app-pub-8521638380159517/2324842837"
+        ]
+      }
     }
   }
 }
